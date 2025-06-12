@@ -43,6 +43,7 @@ I enjoy converting ideas into functional products and learning modern tools and 
 - 🌍 Contribute to Open Source projects  
 
 ---
+
 ## 💼 Skills & Tools
 
 **Languages:**  
@@ -58,6 +59,24 @@ I enjoy converting ideas into functional products and learning modern tools and 
 - Responsive Design  
 - Clean UI & UX  
 - Cross-Browser Compatibility 
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=default" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=default" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🧑‍💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=default&langs_count=8" alt="Top Languages Used" />
+</p>
 
 ---
 
@@ -80,6 +99,3 @@ I enjoy converting ideas into functional products and learning modern tools and 
     <img src="https://img.icons8.com/nolan/48/hackerrank.png" width="35" alt="HackerRank" />
   </a>
 </p>
-
----
-
