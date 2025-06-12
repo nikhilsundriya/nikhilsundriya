@@ -61,13 +61,3 @@ I enjoy turning ideas into beautiful and functional interfaces and love learning
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight" alt="GitHub Streak" />
 </p>
-
----
-
-## ⚡ Fun Fact
-
-💡 I turn ☕ coffee into code and challenges into solutions!
-
----
-
-You can now copy this into a file named **`README.md`** inside your GitHub **profile repository** named exactly as your **username** (`nikhilsundriya`). Want help setting that up too?
