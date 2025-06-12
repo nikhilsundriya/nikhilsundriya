@@ -2,7 +2,7 @@
 <h3 align="center">✨ Creative Frontend Developer | Passionate about UI/UX & Modern Web Experiences ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Self-taught+Frontend+Developer;Building+Responsive+Web+Apps;Lover+of+Clean+UI+and+Smooth+UX"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Self-taught+Web+Developer;Building+Responsive+Web;Lover+of+Clean+UI+and+Smooth+UX"/>
 </p>
 
 <p align="center">
