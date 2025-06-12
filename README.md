@@ -62,9 +62,15 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="mailto:nikhilchoudhary2508@gmail.com">Email</a> · 
-  <a href="https://linkedin.com/in/nikhilsundriya">LinkedIn</a> · 
-  <a href="https://www.hackerrank.com/nikhilsundriya">HackerRank</a>
+  <a href="mailto:nikhilchoudhary2508@gmail.com" title="Gmail">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/nikhilsundriya" title="LinkedIn">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" alt="LinkedIn" />
+  </a>
+  <a href="https://www.hackerrank.com/nikhilsundriya" title="HackerRank">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-logo-color-tal-revivo.png" width="35" alt="HackerRank" />
+  </a>
 </p>
 
 ---
