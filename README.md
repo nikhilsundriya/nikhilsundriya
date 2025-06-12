@@ -43,30 +43,21 @@ I enjoy converting ideas into functional products and learning modern tools and 
 - 🌍 Contribute to Open Source projects  
 
 ---
-
-## 💼 Skills Snapshot
-
-| Languages      | Tools & Platforms    | Strengths                     |
-|----------------|----------------------|-------------------------------|
-| HTML, CSS, JS  | Git, GitHub, VS Code | Responsive UI, Clean Design, Cross-browser compatibility |
-
----
-
 ## 💼 Skills & Tools
 
 **Languages:**  
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)  
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-
-**Core Skills:**  
-- Responsive Design  
-- Clean UI & UX  
-- Cross-Browser Compatibility  
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) 
 
 **Tools & Platforms:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-Favorite-informational)  
 ![GitHub](https://img.shields.io/badge/GitHub-Projects%20Hub-black)
+
+**Core Skills:**  
+- Responsive Design  
+- Clean UI & UX  
+- Cross-Browser Compatibility 
 
 ---
 
@@ -92,8 +83,3 @@ I enjoy converting ideas into functional products and learning modern tools and 
 
 ---
 
-## 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/de
