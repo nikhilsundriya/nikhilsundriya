@@ -1,11 +1,27 @@
-<!-- Nikhil Sundriya | Elegant & Minimal GitHub Profile README -->
+<!-- Nikhil Sundriya | Elegant & Minimal GitHub Profile README with Style -->
+
+<style>
+  h1, h3 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .section-title {
+    font-size: 1.4rem;
+    font-weight: 600;
+    border-bottom: 2px solid #e0e0e0;
+    padding-bottom: 5px;
+    margin-top: 30px;
+  }
+  ul li {
+    margin-bottom: 4px;
+  }
+</style>
 
 <h1 align="center">Hi 👋, I'm Nikhil Sundriya</h1>
 <h3 align="center">Frontend Developer | Clean Code Enthusiast | UI/UX Focused</h3>
 
 ---
 
-## 🧑‍💻 About Me
+<div class="section-title">🧑‍💻 About Me</div>
 
 - 🌍 Based in India | Open for **Frontend Internships**
 - 💡 Crafting responsive and accessible interfaces
@@ -14,7 +30,7 @@
 
 ---
 
-## 🔧 Skills
+<div class="section-title">🔧 Skills</div>
 
 **Languages & Frameworks:**
 - HTML, CSS, JavaScript
@@ -26,7 +42,7 @@
 
 ---
 
-## 📚 Currently Learning
+<div class="section-title">📚 Currently Learning</div>
 
 - ⚛️ Advanced React Patterns
 - 🎨 Animation with Framer Motion
@@ -34,7 +50,7 @@
 
 ---
 
-## 🚀 Projects
+<div class="section-title">🚀 Projects</div>
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -45,7 +61,7 @@
 
 ---
 
-## 📈 GitHub Stats
+<div class="section-title">📈 GitHub Stats</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=graywhite" alt="Stats"/>
@@ -54,7 +70,7 @@
 
 ---
 
-## 📬 Connect with Me
+<div class="section-title">📬 Connect with Me</div>
 
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com">Email</a> · 
@@ -64,6 +80,6 @@
 
 ---
 
-## 💬 Quote
+<div class="section-title">💬 Quote</div>
 
 > "Simplicity is the soul of efficiency." — Austin Freeman
