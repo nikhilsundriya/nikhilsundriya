@@ -2,27 +2,27 @@
 <h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsundriya" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Nikhil Sundriya**, a highly motivated **Web Developer** who loves creating beautiful, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**.  
-I enjoy converting ideas into functional products and learning modern tools and frameworks.
+I'm **Nikhil Sundriya**, a self-motivated **Web Developer** passionate about creating clean, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**.  
+I love turning ideas into products and constantly learning new tech.
 
-- 🎯 Actively seeking a **Web Development Internship**
-- 🎨 Passionate about clean UI, smooth UX, and performance
-- 🚀 Always curious to explore new technologies
+- 🔍 Looking for a **Web Development Internship**  
+- 🎨 Focused on clean UI, seamless UX & web performance  
+- 🚀 Always eager to explore new tools and frameworks
 
 ---
 
 ## 🚀 Projects
 
-- 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) – A music player web app built with HTML, CSS, JS.
-- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car) – Fun animated car using pure CSS and JavaScript.
-- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator) – Generate strong random passwords using HTML, CSS, JS.
+- 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) – Music player UI using HTML, CSS, and JS  
+- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car) – Fun CSS + JS animation project  
+- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator) – Generates secure random passwords
 
 ---
 
@@ -31,16 +31,16 @@ I enjoy converting ideas into functional products and learning modern tools and 
 - ⚛️ React.js  
 - 🎨 Tailwind CSS  
 - 🔧 Git & GitHub Workflow  
-- 📱 Responsive UI/UX Design  
+- 📱 Advanced Responsive UI/UX Design  
 
 ---
 
 ## 🎯 2025 Goals
 
-- ✅ Secure a Web Development Internship  
+- ✅ Get a Web Dev Internship  
 - 💼 Build 5+ major frontend projects  
 - ⚛️ Master React & Tailwind CSS  
-- 🌍 Contribute to Open Source projects  
+- 🌍 Start contributing to Open Source
 
 ---
 
@@ -49,25 +49,24 @@ I enjoy converting ideas into functional products and learning modern tools and 
 **Languages:**  
 ![HTML](https://img.shields.io/badge/HTML-Expert-orange)  
 ![CSS](https://img.shields.io/badge/CSS-Advanced-blue)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow) 
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 
-**Tools & Platforms:**  
+**Tools:**  
 ![VS Code](https://img.shields.io/badge/VS%20Code-Favorite-informational)  
 ![GitHub](https://img.shields.io/badge/GitHub-Projects%20Hub-black)
 
-**Core Skills:**  
-- Responsive Design  
-- Clean UI & UX  
-- Cross-Browser Compatibility 
+**Strengths:**  
+- Responsive Web Design  
+- Clean UI & UX Principles  
+- Cross-Browser Compatibility  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=default" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=default" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=radical" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=radical" width="49%" />
 </p>
 
 ---
@@ -75,7 +74,7 @@ I enjoy converting ideas into functional products and learning modern tools and 
 ## 🧑‍💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=default&langs_count=8" alt="Top Languages Used" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=radical&langs_count=8" />
 </p>
 
 ---
