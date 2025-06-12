@@ -20,7 +20,7 @@ I enjoy turning ideas into beautiful and functional interfaces and love learning
 
 - 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) – A music player web app built with HTML, CSS, JS.
 - 📚 [Student Portfolio](https://github.com/nikhilsundriya/student-portfolio) – Personal portfolio showcasing skills and contact.
-- 🎮 [Mini Game](https://github.com/nikhilsundriya/js-game) – A fun JavaScript-based game.
+- 🎮 [Animated Car](https://github.com/nikhilsundriya/Animated-Car) – A fun Animated car.
 - ✨ [Button UI Kit](https://github.com/nikhilsundriya/button-ui-kit) – A modern CSS-only component library.
 
 ---
