@@ -2,104 +2,85 @@
 <h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilsundriya" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-I'm **Nikhil Sundriya**, a dedicated **Web Developer** who crafts clean, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**.
+<p align="center">
+I'm <strong>Nikhil Sundriya</strong>, a creative and curious <strong>Web Developer</strong> who turns code into interactive, beautiful digital experiences.
+</p>
 
-- 🎯 Actively seeking a **Web Development Internship**
-- 🎨 Focused on UI/UX perfection & frontend performance
-- 🚀 Learning modern tech like **React** & **Tailwind CSS**
-
----
-
-## 🛠 Skills
-
-**Languages & Tools:**  
-![HTML](https://img.shields.io/badge/HTML-Expert-orange)
-![CSS](https://img.shields.io/badge/CSS-Advanced-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![VS Code](https://img.shields.io/badge/VSCode-Favorite-informational)
-![GitHub](https://img.shields.io/badge/GitHub-Projects%20Hub-black)
-
-**Core Competencies:**
-- Responsive Design
-- Clean UI/UX
-- Cross-Browser Compatibility
+<ul>
+  <li>🚀 Learning: <strong>React.js</strong>, <strong>Tailwind CSS</strong>, <strong>Responsive UI</strong></li>
+  <li>🎯 Goal: Secure a <strong>Web Development Internship</strong> by 2025</li>
+  <li>🌟 Passionate about pixel-perfect UI, UX, and clean code</li>
+</ul>
 
 ---
 
-## 🌱 Currently Learning
+<h2 align="center">🛠 Skills & Tools</h2>
 
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-- 🔧 Git & GitHub Workflow  
-- 📱 Mobile-first & Accessible Design  
-
----
-
-## 🚀 Projects
-
-- 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) – Music player UI in HTML/CSS/JS  
-- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car) – Pure CSS + JS animation  
-- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator) – Strong random password tool  
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-## 🎯 2025 Goals
+<h2 align="center">🚀 Featured Projects</h2>
 
-- ✅ Get a Web Dev Internship  
-- 📦 Build & deploy 5+ major frontend projects  
-- ⚛️ Master React & Tailwind  
-- 🌍 Contribute to Open Source  
+<ul>
+  <li>🎵 <a href="https://github.com/nikhilsundriya/spotify-clone">Spotify Clone</a> – Music app UI with HTML, CSS, JS</li>
+  <li>🚗 <a href="https://github.com/nikhilsundriya/Animated-Car">Animated Car</a> – Fun with CSS animations</li>
+  <li>🔐 <a href="https://github.com/nikhilsundriya/password-generator">Password Generator</a> – Secure and fast</li>
+</ul>
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
 
-## 🌍 Connect with Me
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+<h2 align="center">📬 Connect with Me</h2>
 
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" alt="Gmail" /></a>
   <a href="https://twitter.com/nikhil_sundriya"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="35" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/nikhilsundriya"><img src="https://img.icons8.com/color/48/linkedin.png" width="35" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/nikhil_choudhary25/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" alt="Instagram" /></a>
+  <a href="https://www.hackerrank.com/nikhilsundriya"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-logo-color-tal-revivo.png" width="35" alt="HackerRank" /></a>
 </p>
 
 ---
 
-## 🗂 Tech Stack
-
 <p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" /></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" /></a>
-  <a href="https://github.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" /></a>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Always+learning+new+things!;Building+cool+projects;Open+to+collaboration&font=Fira%20Code&center=true&width=380&height=45&color=tokyonight&vCenter=true" />
 </p>
 
 ---
 
-## 📊 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=tokyo-night" alt="Contribution Graph" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
