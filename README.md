@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nikhil Sundriya**, a highly motivated **Frontend Web Developer** who loves creating beautiful, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**.  
+I'm **Nikhil Sundriya**, a highly motivated **Web Developer** who loves creating beautiful, responsive, and user-friendly websites using **HTML, CSS, and JavaScript**.  
 I enjoy converting ideas into functional products and learning modern tools and frameworks.
 
 - 🎯 Actively seeking a **Web Development Internship**
