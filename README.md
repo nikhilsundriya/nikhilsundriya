@@ -1,70 +1,74 @@
-<h1 align="center">💎 Welcome to <span style="color:#00C9A7">Nikhil Sundriya's</span> Developer Universe 🚀</h1>
-<h3 align="center">✨ Frontend Alchemist | UI/UX Sorcerer | Code Artisan ✨</h3>
+<!-- Nikhil Sundriya | Next-Gen GitHub Profile README -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C9A7&center=true&vCenter=true&width=700&lines=Code+is+Art.;Design+meets+Logic.;Bringing+Ideas+to+Life+with+React+%26+Tailwind;Pixel-Perfect+Frontend+Craftsmanship"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FFD1&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Nikhil+Sundriya!;Frontend+Magician+%7C+React+Craftsman+%7C+UX+Visionary;Turning+Designs+into+Pixel+Perfection" alt="Typing Intro"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Visitors&color=00C9A7&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/nikhilsundriya?label=Follow&style=social" />
-</p>
-
----
-
-## 🧬 Who Am I?
-
-- 🧑‍💻 Self-taught **Frontend Developer** from India 🇮🇳
-- 🌐 Building pixel-perfect & blazing-fast web experiences
-- 🔥 Obsessed with minimal design and interactive UI/UX
-- 🧭 Navigating the frontend universe with **React**, **Tailwind**, and **JavaScript**
-- 🚀 Currently exploring: **Framer Motion**, **TypeScript**, **Accessibility First Design**
-
----
-
-## 🚀 My Superpowers
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,vite,figma,vscode,git,github,netlify" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=200&section=header&text=Nikhil%20Sundriya&fontSize=48&fontColor=000000&fontAlignY=35"/>
 </p>
 
 ---
 
-## 🌟 My Dev Story
+## 🧑‍💻 About Me
 
+- 🇮🇳 Based in India | Open for **Frontend Dev Internships**
+- 🧙‍♂️ Specializing in: **React**, **Tailwind CSS**, **UI/UX Engineering**
+- 🎯 Design Thinking | Accessibility | Mobile-First Approach
+- 🛠 Constantly exploring: **Framer Motion**, **TypeScript**, **Next.js**
+- 🌟 My motto: _"Design like an artist, code like an architect."_
+
+---
+
+## 🚀 Tech Stack
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsundriya&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,ts,vite,figma,git,github,netlify,vscode" height="45"/>
 </p>
 
 ---
 
-## 🌈 Signature Projects
+## 🧠 Current Focus
 
-| 🚀 Project | 💡 Description | 🧪 Stack |
-|-----------|----------------|----------|
-| [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) | Clean UI music player with responsive layout | HTML • CSS • JS |
-| [Animated Car](https://github.com/nikhilsundriya/Animated-Car) | Motion-powered animated CSS vehicle | HTML • CSS • JS |
-| [Password Generator](https://github.com/nikhilsundriya/password-generator) | Strong and secure random password generator | HTML • CSS • JS |
-| [Portfolio 2025](https://github.com/nikhilsundriya/portfolio) | Personal portfolio with animation & responsive design | React • Tailwind • Framer Motion |
+```yaml
+📌 Learning:
+  - Framer Motion
+  - TypeScript
+  - Animation-Driven UX
 
----
+🎨 Building:
+  - Real-world React apps
+  - Reusable UI components
 
-## 📅 My 2025 Vision
-
-- 🎯 Secure a creative web dev internship
-- 🧠 Master Framer Motion & TypeScript
-- 📂 Launch 5+ full-scale projects
-- 🤝 Collaborate on OSS & design systems
-- ✍️ Share technical blogs & dev tips
+🤝 Collaborating:
+  - Open Source frontend design systems
+```
 
 ---
 
-## 🔗 Connect with Me
+## 🔥 Featured Projects
+
+| 🚀 Project | 💬 Preview | 🧪 Tech |
+|-----------|-----------|---------|
+| [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) | ![Spotify UI](https://img.shields.io/badge/Responsive_UI-🎵-00FFD1) | HTML, CSS, JS |
+| [Animated Car](https://github.com/nikhilsundriya/Animated-Car) | ![CSS Motion](https://img.shields.io/badge/Pure_CSS_Animation-🚗-FF00C8) | CSS, JS |
+| [Password Generator](https://github.com/nikhilsundriya/password-generator) | ![Secure Tool](https://img.shields.io/badge/Security_Tool-🔐-1ABC9C) | HTML, JS |
+| [Portfolio 2025](https://github.com/nikhilsundriya/portfolio) | ![Animated React](https://img.shields.io/badge/Framer_Motion_React-🎯-9B59B6) | React, Tailwind, Motion |
+
+---
+
+## 📊 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&theme=radical&show_icons=true&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsundriya&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:nikhilchoudhary2508@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:nikhilchoudhary2508@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/nikhilsundriya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/nikhil_choudhary25/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/nikhilsundriya"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -72,14 +76,10 @@
 
 ---
 
-## 🧠 Dev Philosophy
+## ✨ Quote That Drives Me
 
-> "Design is not just what it looks like and feels like. Design is how it works." — Steve Jobs
-
-Crafting interfaces that don't just look good — they **feel right**, they **work flawlessly**, and they **delight users**. ✨
-
----
+> "Make it work. Make it right. Make it fast." — Kent Beck
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C9A7&height=150&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFD1&height=150&section=footer"/>
 </p>
