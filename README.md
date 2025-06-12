@@ -61,6 +61,9 @@ I enjoy turning ideas into beautiful and functional interfaces and love learning
 ## 🌐 Connect with me
 
 <p align="left">
+  <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/PNG/Color/Gmail.png" alt="Gmail" height="30" width="40" />
+  </a>
   <a href="https://twitter.com/nikhil_sundriya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
   </a>
