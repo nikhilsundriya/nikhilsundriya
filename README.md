@@ -29,7 +29,7 @@ I enjoy turning ideas into beautiful and functional interfaces and love learning
   <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/nikhil_choudhary25" target="_blank">
+  <a href="https://www.instagram.com/nikhil_choudhary25/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
