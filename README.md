@@ -82,7 +82,6 @@ I'm **Nikhil Sundriya**, a dedicated **Web Developer** who crafts clean, respons
   <a href="https://twitter.com/nikhil_sundriya"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="35" alt="Twitter" /></a>
   <a href="https://linkedin.com/in/nikhilsundriya"><img src="https://img.icons8.com/color/48/linkedin.png" width="35" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/nikhil_choudhary25/"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" alt="Instagram" /></a>
-  <a href="https://www.hackerrank.com/nikhilsundriya"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-logo-color-tal-revivo.png" width="35" alt="HackerRank" /></a>
 </p>
 
 ---
