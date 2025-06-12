@@ -1,74 +1,74 @@
-<!-- Nikhil Sundriya | Elegant & Minimal GitHub Profile README with Enhanced Inline Styling -->
+<!-- Nikhil Sundriya | Clean & Professional GitHub Profile README -->
 
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 2.2rem;">Hi 👋, I'm Nikhil Sundriya</h1>
-<h3 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 500; color: #555;">Frontend Developer | Clean Code Enthusiast | UI/UX Focused</h3>
+<h1 align="center">Hi 👋, I'm Nikhil Sundriya</h1>
+<h3 align="center">Frontend Developer • UI/UX Enthusiast • Clean Code Advocate</h3>
 
-<hr style="border: none; border-top: 1px solid #ddd; margin: 20px 0;" />
-
-<h2 style="font-size: 1.4rem; font-weight: 600; border-bottom: 2px solid #e0e0e0; padding-bottom: 5px; font-family: 'Segoe UI';">🧑‍💻 About Me</h2>
-<ul style="line-height: 1.6;">
-  <li>🌍 Based in India | Open for <strong>Frontend Internships</strong></li>
-  <li>💡 Crafting responsive and accessible interfaces</li>
-  <li>💻 Comfortable with <strong>React</strong>, <strong>Tailwind CSS</strong>, and modern frontend tooling</li>
-  <li>🎯 Believer in user-first design and code simplicity</li>
-</ul>
-
-<h2 style="font-size: 1.4rem; font-weight: 600; border-bottom: 2px solid #e0e0e0; padding-bottom: 5px; font-family: 'Segoe UI';">🔧 Skills</h2>
-<ul style="line-height: 1.6;">
-  <li><strong>Languages & Frameworks:</strong> HTML, CSS, JavaScript, React.js, Tailwind CSS</li>
-  <li><strong>Tools:</strong> Git & GitHub, VS Code, Figma, Netlify</li>
-</ul>
-
-<h2 style="font-size: 1.4rem; font-weight: 600; border-bottom: 2px solid #e0e0e0; padding-bottom: 5px; font-family: 'Segoe UI';">📚 Currently Learning</h2>
-<ul style="line-height: 1.6;">
-  <li>⚛️ Advanced React Patterns</li>
-  <li>🎨 Animation with Framer Motion</li>
-  <li>🧰 TypeScript for safer development</li>
-</ul>
-
-<h2 style="font-size: 1.4rem; font-weight: 600; border-bottom: 2px solid #e0e0e0; padding-bottom: 5px; font-family: 'Segoe UI';">🚀 Projects</h2>
-<table style="width: 100%; border-collapse: collapse;">
-  <tr style="background: #f2f2f2;">
-    <th align="left">Project</th>
-    <th align="left">Description</th>
-    <th align="left">Tech</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nikhilsundriya/spotify-clone">Spotify Clone</a></td>
-    <td>Responsive music app UI</td>
-    <td>HTML, CSS, JS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nikhilsundriya/Animated-Car">Animated Car</a></td>
-    <td>CSS + JS animated car</td>
-    <td>CSS, JS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nikhilsundriya/password-generator">Password Generator</a></td>
-    <td>Secure random password maker</td>
-    <td>HTML, JS</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/nikhilsundriya/portfolio">Portfolio 2025</a></td>
-    <td>Personal animated portfolio</td>
-    <td>React, Tailwind</td>
-  </tr>
-</table>
-
-<h2 style="font-size: 1.4rem; font-weight: 600; border-bottom: 2px solid #e0e0e0; padding-bottom: 5px; font-family: 'Segoe UI';">📈 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=graywhite" alt="Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsundriya&theme=graywhite" alt="Streak" width="45%" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h2 style="font-size: 1.4rem; font-weight: 600; border-bottom: 2px solid #e0e0e0; padding-bottom: 5px; font-family: 'Segoe UI';">📬 Connect with Me</h2>
+---
+
+## 👨‍💻 About Me
+
+- 🌍 Based in India | Open to **Frontend Developer Internships**
+- 💻 Skilled in **React.js**, **Tailwind CSS**, and modern frontend ecosystems
+- 🎯 Passionate about accessibility, clean UI, and performance
+- 🧠 Focused on continuous learning and writing elegant code
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries:** React.js, Tailwind CSS
+- **Tools:** Git & GitHub, Figma, VS Code, Netlify
+- **Soft Skills:** Problem Solving, Team Collaboration, Agile Basics
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) | Music app interface inspired by Spotify | HTML, CSS, JS |
+| [Animated Car](https://github.com/nikhilsundriya/Animated-Car) | Interactive car animation using CSS & JS | CSS, JS |
+| [Password Generator](https://github.com/nikhilsundriya/password-generator) | Strong password generator | HTML, JS |
+| [Portfolio 2025](https://github.com/nikhilsundriya/portfolio) | Clean and modern personal portfolio | React, Tailwind CSS |
+
+---
+
+## 🌱 Currently Learning
+
+- 🔁 Advanced React Patterns
+- 🧩 TypeScript for scalable development
+- 🎞️ Framer Motion for UI animations
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=default" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilsundriya&theme=default" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=default" width="60%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com">Email</a> · 
   <a href="https://linkedin.com/in/nikhilsundriya">LinkedIn</a> · 
   <a href="https://www.hackerrank.com/nikhilsundriya">HackerRank</a>
 </p>
 
-<h2 style="font-size: 1.4rem; font-weight: 600; border-bottom: 2px solid #e0e0e0; padding-bottom: 5px; font-family: 'Segoe UI';">💬 Quote</h2>
-<blockquote>
-  <em>"Simplicity is the soul of efficiency." — Austin Freeman</em>
-</blockquote>
+---
+
+## 💬 Quote to Live By
+
+> _"Strive not to be a success, but rather to be of value." — Albert Einstein_
