@@ -24,9 +24,10 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 🚀 Projects
 
-- 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
-- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
-- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
+- [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
+- [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
+- [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool
+- [Mynta_Clone](https://github.com/nikhilsundriya/myntra-clone): Myntra clone with shopping UI using HTML, CSS, JS
 
 ---
 
