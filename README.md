@@ -54,30 +54,36 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ### 🧰 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="40" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="40" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" />
 </p>
 
 ### 📚 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="40" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="40" />
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (for UI)" width="40" />
+  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="40" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="40" />
 </p>
+
 
 ### 💪 Strengths
 
