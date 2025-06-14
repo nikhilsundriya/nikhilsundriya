@@ -90,17 +90,19 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=radical" width="48%" />
-</p>
+<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&border_radius=10" width="48%" style="margin-right: 1%; border-radius: 12px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight&hide_border=false" width="48%" style="border-radius: 12px;" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" width="97%" style="border-radius: 12px;" />
+</div>
 
 ---
 
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=radical&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=donut&theme=radical&langs_count=10&hide=makefile" />
 </p>
 
 ---
