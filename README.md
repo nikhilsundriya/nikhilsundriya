@@ -1,9 +1,9 @@
 <!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nikhil+Sundriya+👋;Web+Developer+from+India+💻;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Nikhil Sundriya</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
 <h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
 
 <p align="center">
@@ -17,19 +17,17 @@
 I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and responsive web applications. I enjoy learning new technologies and turning ideas into real projects.
 
 - 🔎 Looking for a **Web Development Internship**  
-- 🎨 Focused on **frontend design**, **accessibility**, and **performance**  
+- 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
 - 🌱 Always growing, always building  
-
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 ---
 
 ## 🚀 Projects
 
-- [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
-- [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
-- [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
-- [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Myntra shopping UI using HTML, CSS, JS  
+- 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
+- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
+- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
+- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS
 
 ---
 
@@ -51,54 +49,76 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Tech Stack
 
-**Languages & Tools**
+### 🧰 Languages
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=flat)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=fff&style=flat)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2b%2b&logoColor=fff&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=darkhub&no-frame=true&margin-w=10" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="40" />
 </p>
+
+### 📚 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="40" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (for UI)" width="40" />
+</p>
+
+### 💪 Strengths
+
+- ✅ Responsive Design  
+- ✅ Pixel-perfect UI  
+- ✅ Clean, Maintainable Code  
+- ✅ Strong grasp of Programming Fundamentals
 
 ---
 
 ## 📊 GitHub Stats
 
+<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&border_radius=10" width="48%" style="margin-right: 1%; border-radius: 12px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight&hide_border=false" width="48%" style="border-radius: 12px;" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" width="97%" style="border-radius: 12px;" />
+</div>
+
+---
+
+## 📈 Most Used Languages
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight&hide_border=false&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=donut&theme=radical&langs_count=10&hide=makefile" />
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+## ✨ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=github-compact" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-## 💬 Most Used Languages
+## 🔥 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=donut&theme=tokyonight&langs_count=10&hide_progress=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=react-dark" />
 </p>
 
 ---
@@ -107,18 +127,18 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" />
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" title="Gmail"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/nikhil_sundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="35" />
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="35" title="Twitter"/>
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" />
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" title="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/nikhil_choudhary25/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" />
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" title="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
-  </a>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
+</a>
 </p>
