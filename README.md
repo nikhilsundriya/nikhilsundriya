@@ -123,6 +123,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" title="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/nolan/48/hackerrank.png" width="35" title="HackerRank"/>
-  </a>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
+</a>
+
 </p>
