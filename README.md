@@ -1,10 +1,10 @@
 <!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=4A90E2&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nikhil+Sundriya;Web+Developer+from+India;Passionate+about+Clean+Code+and+Beautiful+UIs" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
-<h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nikhil Sundriya</h1>
+<h3 align="center">Frontend Web Developer | UI/UX Enthusiast | Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,125 +14,73 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and responsive web applications. I enjoy learning new technologies and turning ideas into real projects.
+I'm a passionate **Frontend Web Developer** focused on building accessible, responsive, and user-friendly websites.
 
-- 🔎 Looking for a **Web Development Internship**  
-- 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
-- 🌱 Always growing, always building  
+- 🌱 Currently Learning **React.js**, **Tailwind CSS**, and **API Integration**
+- 🔎 Open to **Internship Opportunities**
+- 💡 Building real-world projects to enhance problem-solving and design thinking
 
 ---
 
 ## 🚀 Projects
 
-- 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
-- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
-- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
-- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS
+- 🎧 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone) – A responsive music player using HTML, CSS & JS  
+- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone) – E-commerce front-end UI  
+- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator) – Strong password generator app  
+- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car) – Smooth CSS-based car animation
 
 ---
 
-## 🌱 Currently Learning
+## 🧠 Skills
 
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-- 🔧 Git & GitHub Workflow  
-- 📱 Advanced Responsive UI/UX  
+### Languages  
+![HTML](https://skillicons.dev/icons?i=html)  
+![CSS](https://skillicons.dev/icons?i=css)  
+![JavaScript](https://skillicons.dev/icons?i=js)  
+![Python](https://skillicons.dev/icons?i=python)  
+![C](https://skillicons.dev/icons?i=c)  
+![C++](https://skillicons.dev/icons?i=cpp)  
 
----
-
-## 🎯 Goals for 2025
-
-- ✅ Land a Web Development Internship  
-- ⚛️ Master **React + Tailwind**  
-- 💼 Build & deploy 5+ major frontend projects  
-- 🌍 Start contributing to **Open Source**
-
----
-
-## 💼 Tech Stack
-
-### 🧰 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40" />
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" />
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40" />
-  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="40" />
-</p>
-
-### 📚 Frameworks & Libraries
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="40" />
-</p>
-
-### 🛠️ Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40" />
-  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (for UI)" width="40" />
-</p>
-
-### 💪 Strengths
-
-- ✅ Responsive Design  
-- ✅ Pixel-perfect UI  
-- ✅ Clean, Maintainable Code  
-- ✅ Strong grasp of Programming Fundamentals
+### Frameworks & Tools  
+![React](https://skillicons.dev/icons?i=react)  
+![Tailwind](https://skillicons.dev/icons?i=tailwind)  
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)  
+![VSCode](https://skillicons.dev/icons?i=vscode)  
+![Git](https://skillicons.dev/icons?i=git)  
+![GitHub](https://skillicons.dev/icons?i=github)  
+![Figma](https://skillicons.dev/icons?i=figma)
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 HTML & CSS Certification – FreeCodeCamp  
-- 🏅 Python for Everybody – Coursera  
-- 🏅 JavaScript Essentials – Udemy  
-- 🏅 Git & GitHub – Great Learning
+- **Frontend Development (HTML, CSS)** – Great Learning  
+- **Responsive Web Design** – freeCodeCamp  
+- **JavaScript Essentials** – Udemy  
+> _More certifications being added soon_
 
 ---
 
-## ✍️ Blog Posts
+## 📝 Blog Posts
 
-- 📘 [How I Built My First Portfolio Website](https://medium.com/@nikhilsundriya/your-post-slug)  
-- 🧠 [Understanding Flexbox in CSS](https://medium.com/@nikhilsundriya/your-post-slug)  
-- 🚀 [My Journey Into Web Development](https://medium.com/@nikhilsundriya/your-post-slug)
+- [Beginner's Guide to Responsive Design](https://yourblog.com/responsive-design)
+- [CSS Tricks Every Developer Should Know](https://yourblog.com/css-tips)
+- [My Journey as a Self-Taught Web Developer](https://yourblog.com/my-journey)
 
 ---
 
-## 📊 GitHub Stats
+## 📄 Resume
 
-<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&border_radius=10" width="48%" style="margin-right: 1%; border-radius: 12px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight&hide_border=false" width="48%" style="border-radius: 12px;" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" width="97%" style="border-radius: 12px;" />
+📌 [**View My Resume**](https://drive.google.com/file/d/your-resume-link/view?usp=sharing)
+
+---
+
+## 📈 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=default&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=default&hide_border=true" width="48%" />
 </div>
-
----
-
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=donut&theme=radical&langs_count=10&hide=makefile" />
-</p>
-
----
-
-## ✨ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🔥 GitHub Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=react-dark" />
@@ -140,22 +88,20 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🌐 Connect with Me
+## 🗂️ Most Used Languages
 
 <p align="center">
-  <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" title="Gmail"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/nikhil_sundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="35" title="Twitter"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" title="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nikhil_choudhary25/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" title="Instagram"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=default&langs_count=10" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:nikhilchoudhary2508@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail-new.png" width="30" /></a>
+  <a href="https://linkedin.com/in/nikhilsundriya"><img src="https://img.icons8.com/color/48/linkedin.png" width="30" /></a>
+  <a href="https://twitter.com/nikhil_sundriya"><img src="https://img.icons8.com/color/48/twitter--v1.png" width="30" /></a>
+  <a href="https://instagram.com/nikhil_choudhary25"><img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="30" /></a>
+  <a href="https://www.hackerrank.com/nikhilsundriya"><img src="https://img.icons8.com/nolan/48/hackerrank.png" width="30" /></a>
 </p>
