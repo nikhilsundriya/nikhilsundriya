@@ -29,6 +29,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
 - 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
 - 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS
+- [Jarvis](https://github.com/nikhilsundriya/jarvis) : AI voice assistant built with Python.
 
 ---
 
