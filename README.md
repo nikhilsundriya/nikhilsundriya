@@ -115,13 +115,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🔥 GitHub Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=react-dark" />
-</p>
-
----
 
 ## 🌎 Connect with Me
 
@@ -162,13 +155,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🏆 Profiles
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode)](https://leetcode.com/nikhilsundriya)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nikhilsundriya)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nikhilsundriya)
-
----
 
 ## ✨ My Quote
 
