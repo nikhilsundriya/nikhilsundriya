@@ -27,7 +27,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
 - 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
 - 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
-- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS
+- 🏍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS
 
 ---
 
@@ -123,7 +123,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🌐 Connect with Me
+## 🌎 Connect with Me
 
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
@@ -142,3 +142,34 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
 </a>
 </p>
+
+---
+
+## 🌟 Fun Facts About Me
+
+- 🧓‍♂️ I love coding with lofi beats in the background  
+- 🧩 Solving UI bugs feels like solving puzzles  
+- 🌪️ I enjoy late-night programming sessions  
+- 🐍 My first program was in Python printing `Hello World!`
+
+---
+
+## 📄 My Resume
+
+<a href="https://your-resume-link.com" target="_blank">
+  <img src="https://img.shields.io/badge/Resume-Download-orange?style=for-the-badge&logo=adobeacrobatreader" />
+</a>
+
+---
+
+## 🏆 Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode)](https://leetcode.com/nikhilsundriya)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/nikhilsundriya)
+[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/nikhilsundriya)
+
+---
+
+## ✨ My Quote
+
+> "The best way to predict the future is to create it." — Abraham Lincoln
