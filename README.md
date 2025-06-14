@@ -90,9 +90,9 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 📜 Certifications
 
-- 🏅 HTML & CSS Certification – FreeCodeCamp  
-- 🏅 Python for Everybody – Coursera  
-- 🏅 JavaScript Essentials – Udemy  
+- 🏅 HTML & CSS Certification – Hackerrank  
+- 🏅 Python for Everybody – Hackerrank  
+- 🏅 JavaScript Essentials – Hackerrank  
 - 🏅 Git & GitHub – Great Learning
 
 ---
