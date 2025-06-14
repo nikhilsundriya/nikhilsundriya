@@ -1,6 +1,7 @@
 <!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UI!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
+
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
