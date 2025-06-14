@@ -51,15 +51,40 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 💼 Tech Stack
 
-**Languages & Tools**  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,vscode,git,github" />
+### 🧰 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML" title="HTML" width="40" />
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS" title="CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" width="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" title="C++" width="40" />
+  <img src="https://skillicons.dev/icons?i=c" alt="C" title="C" width="40" />
 </p>
 
-**Strengths**
+### 📚 Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" alt="React.js" title="React.js" width="40" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" title="Tailwind CSS" width="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" title="Bootstrap" width="40" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" title="VS Code" width="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" width="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="40" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma (for UI)" width="40" />
+</p>
+
+### 💪 Strengths
+
 - ✅ Responsive Design  
 - ✅ Pixel-perfect UI  
-- ✅ Clean Code & Maintainable Structure  
+- ✅ Clean, Maintainable Code  
+- ✅ Strong grasp of Programming Fundamentals
 
 ---
 
