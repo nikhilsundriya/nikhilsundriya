@@ -1,7 +1,6 @@
 <!-- Typing animation banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
-
 </p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
@@ -20,6 +19,8 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🔎 Looking for a **Web Development Internship**  
 - 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
 - 🌱 Always growing, always building  
+- 🎓 BTech CSE (AI & ML) at **Chandigarh University**
+- 🧠 Learning **Data Science** with Python
 
 ---
 
@@ -28,8 +29,10 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
 - 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
 - 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
-- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS
-- [Jarvis](https://github.com/nikhilsundriya/jarvis) : AI voice assistant built with Python.
+- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS  
+- 🤖 [Jarvis](https://github.com/nikhilsundriya/jarvis): AI voice assistant built with Python  
+- 🎂 [Animated Birthday Greeting](https://github.com/nikhilsundriya/animated-birthday): HTML + CSS interactive birthday page  
+- 👁️ [Ultrasonic Smart Stick](https://github.com/nikhilsundriya/ultrasonic-stick): Obstacle-detecting stick for the visually impaired
 
 ---
 
@@ -39,6 +42,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🎨 Tailwind CSS  
 - 🔧 Git & GitHub Workflow  
 - 📱 Advanced Responsive UI/UX  
+- 📊 Python for Data Science
 
 ---
 
@@ -47,14 +51,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - ✅ Land a Web Development Internship  
 - ⚛️ Master **React + Tailwind**  
 - 💼 Build & deploy 5+ major frontend projects  
-- 🌍 Start contributing to **Open Source**
+- 🌍 Start contributing to **Open Source**  
+- 📈 Create 1+ full-stack project with **MongoDB + Express + React + Node**
 
 ---
 
 ## 💼 Tech Stack
 
 ### 🧰 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=c" title="C" width="40" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" />
@@ -65,7 +69,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 </p>
 
 ### 📚 Frameworks & Libraries
-
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="40" />
   <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="40" />
@@ -77,7 +80,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 </p>
 
 ### 🛠️ Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="40" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="40" />
@@ -86,13 +88,13 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="40" />
 </p>
 
-
 ### 💪 Strengths
 
 - ✅ Responsive Design  
 - ✅ Pixel-perfect UI  
 - ✅ Clean, Maintainable Code  
-- ✅ Strong grasp of Programming Fundamentals
+- ✅ Strong grasp of Programming Fundamentals  
+- ✅ Excellent Documentation
 
 ---
 
@@ -117,7 +119,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ---
 
 ## 📈 Most Used Languages
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=donut&theme=radical&langs_count=10&hide=makefile" />
 </p>
@@ -125,16 +126,13 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ---
 
 ## ✨ GitHub Trophies
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
 </p>
 
 ---
 
-
 ## 🌐 Connect with Me
-
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" title="Gmail"/>
@@ -149,6 +147,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" title="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
-</a>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
+  </a>
 </p>
