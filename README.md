@@ -27,8 +27,8 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
 - 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
 - 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
-- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS
-- [Jarvis](https://github.com/nikhilsundriya/jarvis) : AI voice assistant built with Python.
+- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS  
+- 🧠 [Jarvis](https://github.com/nikhilsundriya/jarvis): AI voice assistant built with Python  
 
 ---
 
@@ -46,7 +46,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - ✅ Land a Web Development Internship  
 - ⚛️ Master **React + Tailwind**  
 - 💼 Build & deploy 5+ major frontend projects  
-- 🌍 Start contributing to **Open Source**
+- 🌍 Start contributing to **Open Source**  
 
 ---
 
@@ -151,57 +151,3 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 </p>
 
 ---
-
-<!-- Additional Cool Sections -->
-
-## 🧠 Fun Facts About Me
-
-- 🔁 I never stop until something works — persistence is my power!
-- 🎧 I code best with music playing in the background.
-- 💡 I love turning complex problems into simple, creative solutions.
-- 🧩 I enjoy solving logic puzzles and brain teasers.
-
----
-
-## 📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/nikhilsundriya/spotify-clone">
-    <img src="https://img.icons8.com/color/48/spotify.png" width="25" /> Spotify Clone
-  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/nikhilsundriya/myntra-clone">
-    <img src="https://img.icons8.com/color/48/shopping-cart.png" width="25" /> Myntra UI
-  </a> &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/nikhilsundriya/password-generator">
-    <img src="https://img.icons8.com/color/48/password.png" width="25" /> Password Generator
-  </a>
-</p>
-
----
-
-## 🧾 Resume & Portfolio
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/YOUR_RESUME_LINK_HERE/view" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/resume.png" width="35" /> <b>View My Resume</b>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://nikhilsundriya.github.io/Portfolio-Website/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/internet.png" width="35" /> <b>Visit My Portfolio</b>
-  </a>
-</p>
-
----
-
-## 💬 Quote I Live By
-
-> "Code is not just code, it’s a story waiting to be told. Make it readable."
-
----
-
-## 🌍 Website Preview
-
-<p align="center">
-  <a href="https://nikhilsundriya.github.io/Portfolio-Website/" target="_blank">
-    <img src="https://raw.githubusercontent.com/nikhilsundriya/Portfolio-Website/main/preview.png" width="80%" alt="Website Preview" style="border-radius: 12px;" />
-  </a>
-</p>
