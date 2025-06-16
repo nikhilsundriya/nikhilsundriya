@@ -3,6 +3,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
 </p>
 
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.imgur.com/RA1Q8Mf.png" width="100%" alt="Banner Image">
+</p>
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
 <h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
 
@@ -19,7 +24,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🔎 Looking for a **Web Development Internship**  
 - 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
 - 🌱 Always growing, always building  
-- 📄 [Download My Resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
 
 ---
 
@@ -86,6 +90,13 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="40" />
 </p>
 
+### 💪 Strengths
+
+- ✅ Responsive Design  
+- ✅ Pixel-perfect UI  
+- ✅ Clean, Maintainable Code  
+- ✅ Strong grasp of Programming Fundamentals
+
 ---
 
 ## 📜 Certifications
@@ -93,7 +104,13 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🏅 HTML & CSS Certification – Hackerrank  
 - 🏅 Python for Everybody – Hackerrank  
 - 🏅 JavaScript Essentials – Hackerrank  
-- 🏅 Git & GitHub – Great Learning  
+- 🏅 Git & GitHub – Great Learning
+
+---
+
+## 📄 Resume
+
+🔗 [Click here to view my resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
 
 ---
 
@@ -124,6 +141,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nikhilsundriya/nikhilsundriya/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -143,3 +168,5 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
   </a>
 </p>
+
+---
