@@ -4,9 +4,6 @@
 </p>
 
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://i.imgur.com/RA1Q8Mf.png" width="100%" alt="Banner Image">
-</p>
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
 <h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
@@ -137,14 +134,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/nikhilsundriya/nikhilsundriya/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
