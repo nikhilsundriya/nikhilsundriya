@@ -19,6 +19,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🔎 Looking for a **Web Development Internship**  
 - 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
 - 🌱 Always growing, always building  
+- 📄 [Download My Resume](https://your-resume-link.com) <!-- Replace with your actual resume link -->
 
 ---
 
@@ -85,13 +86,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="40" />
 </p>
 
-### 💪 Strengths
-
-- ✅ Responsive Design  
-- ✅ Pixel-perfect UI  
-- ✅ Clean, Maintainable Code  
-- ✅ Strong grasp of Programming Fundamentals
-
 ---
 
 ## 📜 Certifications
@@ -99,7 +93,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🏅 HTML & CSS Certification – Hackerrank  
 - 🏅 Python for Everybody – Hackerrank  
 - 🏅 JavaScript Essentials – Hackerrank  
-- 🏅 Git & GitHub – Great Learning
+- 🏅 Git & GitHub – Great Learning  
 
 ---
 
@@ -149,5 +143,3 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
   </a>
 </p>
-
----
