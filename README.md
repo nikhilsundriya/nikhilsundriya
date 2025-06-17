@@ -77,6 +77,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" />
 </p>
 
+### 🎨 Design & UI Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="40" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="40" />
+  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="40" />
+</p>
+
 ### 🛠️ Tools & Platforms
 
 <p>
