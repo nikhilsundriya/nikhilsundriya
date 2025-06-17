@@ -57,43 +57,44 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ### 🧰 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="40" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="40" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" width="40" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="40" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="40" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="40" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" />
 </p>
 
 ### 📚 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="40" />
-  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="40" />
-  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="40" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="40" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50" />
 </p>
 
 ### 🎨 Design & UI Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="40" />
-  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="40" />
-  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="40" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="50" />
+  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="50" />
 </p>
 
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="40" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="40" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="40" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="40" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="40" />
+  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="50" />
 </p>
+
 
 ### 💪 Strengths
 
