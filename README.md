@@ -24,31 +24,12 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🚀 Projects
-
-- 🎵 [Spotify Clone](https://github.com/nikhilsundriya/spotify-clone): Music player UI using HTML, CSS, JS  
-- 🚗 [Animated Car](https://github.com/nikhilsundriya/Animated-Car): Creative CSS + JS animation  
-- 🔐 [Password Generator](https://github.com/nikhilsundriya/password-generator): Secure password generator tool  
-- 🛍️ [Myntra Clone](https://github.com/nikhilsundriya/myntra-clone): Shopping UI using HTML, CSS, JS  
-- 🧠 [Jarvis](https://github.com/nikhilsundriya/jarvis): AI voice assistant built with Python  
-
----
-
 ## 🌱 Currently Learning
 
 - ⚛️ React.js  
 - 🎨 Tailwind CSS  
 - 🔧 Git & GitHub Workflow  
 - 📱 Advanced Responsive UI/UX  
-
----
-
-## 🎯 Goals for 2025
-
-- ✅ Land a Web Development Internship  
-- ⚛️ Master **React + Tailwind**  
-- 💼 Build & deploy 5+ major frontend projects  
-- 🌍 Start contributing to **Open Source**  
 
 ---
 
