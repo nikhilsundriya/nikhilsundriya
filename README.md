@@ -151,20 +151,20 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="35" title="Gmail"/>
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" title="Gmail"/>
   </a>&nbsp;&nbsp;
   <a href="https://twitter.com/nikhil_sundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="35" title="Twitter"/>
+    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="50" title="Twitter"/>
   </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="35" title="LinkedIn"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" title="LinkedIn"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/nikhil_choudhary25/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="35" title="Instagram"/>
+    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50" title="Instagram"/>
   </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="35" />
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" title="HackerRank"/>
   </a>
 </p>
 
----
+<p align="center"><b>Nikhil Sundriya</b></p>
