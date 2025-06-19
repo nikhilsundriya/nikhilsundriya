@@ -1,16 +1,15 @@
-<!-- 🌟 Stylish Banner with Your Name -->
+<!-- Typing animation banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=150&section=header&text=Hi,%20I'm%20Nikhil%20Sundriya%20👋&fontSize=40&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
 </p>
 
-<!-- 🌟 Profile Views Badge -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<!-- Banner Image -->
 
-<!-- ✨ Shining SVG Banner (Your Personal Motto) -->
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
+<h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffeb3b&center=true&vCenter=true&width=1000&lines=Designing+%F0%9F%8E%A8+%2B+Developing+%F0%9F%92%BB+%3D+Impact+%F0%9F%92%AB;Let%E2%80%99s+Turn+Ideas+into+Reality+Together!;Welcome+to+my+World+of+Code+and+Creativity+%F0%9F%8C%88" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -27,53 +26,73 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 🌱 Currently Learning
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ffcc&center=true&vCenter=true&width=1000&lines=⚛️+Mastering+React+Components;🎨+Tailwind+Magic+in+Action;🚀+Deploying+Dreams+into+Reality" />
-</p>
+- ⚛️ React.js  
+- 🎨 Tailwind CSS  
+- 🔧 Git & GitHub Workflow  
+- 📱 Advanced Responsive UI/UX  
 
 ---
 
 ## 💼 Tech Stack
 
 ### 🧰 Languages
+
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="50" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" />
 </p>
 
 ### 📚 Frameworks & Libraries
+
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,materialui,react,tailwind,express,nodejs,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="50" />
+  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" />
+  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50" />
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" />
 </p>
 
 ### 🎨 Design & UI Tools
+
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="48" />
-  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="48" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="50" />
+  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="50" />
 </p>
 
 ### 🛠️ Tools & Platforms
+
 <p>
-  <img src="https://skillicons.dev/icons?i=powershell,vscode,git,github,googlecloud" />
+  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" />
+  <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="50" />
 </p>
 
----
 
-## 🧠 Strengths
+### 💪 Strengths
 
 - ✅ Responsive Design  
 - ✅ Pixel-perfect UI  
 - ✅ Clean, Maintainable Code  
-- ✅ Strong Programming Fundamentals  
+- ✅ Strong grasp of Programming Fundamentals
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 HTML & CSS – Hackerrank  
+- 🏅 HTML & CSS Certification – Hackerrank  
 - 🏅 Python for Everybody – Hackerrank  
 - 🏅 JavaScript Essentials – Hackerrank  
-- 🏅 Git & GitHub – Great Learning  
+- 🏅 Git & GitHub – Great Learning
 
 ---
 
@@ -83,22 +102,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight" width="48%" />
+<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 12px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&border_radius=10" width="48%" style="margin-right: 1%; border-radius: 12px;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight&hide_border=false" width="48%" style="border-radius: 12px;" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" width="96%" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" width="97%" style="border-radius: 12px;" />
+</div>
 
 ---
 
@@ -110,27 +121,33 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
+## ✨ GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
+</p>
+
+---
+
 ## 🌐 Connect with Me
 
 <p align="center">
   <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" title="Gmail"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://twitter.com/nikhil_sundriya" target="_blank">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" width="50" title="Twitter"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
     <img src="https://img.icons8.com/color/48/linkedin.png" width="50" title="LinkedIn"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/nikhil_choudhary25/" target="_blank">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50" title="Instagram"/>
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/000000/external-hackerrank-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png" width="50" title="HackerRank"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" title="HackerRank"/>
   </a>
 </p>
-
----
 
 ## 🎨 Final Touch
 
