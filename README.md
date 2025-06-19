@@ -134,6 +134,4 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 🐍 Contribution Snake
 
-> (Optional: Requires setup in your GitHub Actions)
-```markdown
-![snake gif](https://github.com/nikhilsundriya/nikhilsundriya/blob/output/github-contribution-grid-snake.svg)
+[snake gif](https://github.com/nikhilsundriya/nikhilsundriya/blob/output/github-contribution-grid-snake.svg)
