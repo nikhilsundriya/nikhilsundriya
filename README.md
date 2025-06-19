@@ -1,13 +1,16 @@
 <!-- Typing animation banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1200&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+building+UIs+that+WOW!" />
 </p>
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
-<h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
-
+<!-- Glitch-style animated banner -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Nikhil%20Sundriya&width=1000&height=150" />
+</p>
+
+<!-- Rainbow wave banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Creative%20Frontend%20Developer&fontSize=30&fontColor=ffffff" />
 </p>
 
 ---
@@ -25,7 +28,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ## 🌱 Currently Learning
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=500&center=true&vCenter=true&width=600&lines=⚛️+Mastering+React+Components;🎨+Building+with+Tailwind+Magic;🛠️+Deploying+like+a+Pro;📱+Creating+Pixel-Perfect+UIs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00ffcc&center=true&vCenter=true&width=1000&lines=⚛️+Mastering+React+Components;🎨+Tailwind+Magic+in+Action;🚀+Deploying+Dreams+into+Reality" />
 </p>
 
 ---
@@ -39,14 +42,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ### 📚 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap,materialui,react,tailwind,express,nodejs,mongodb" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,materialui,react,tailwind,express,nodejs,mongodb,mysql" />
 </p>
 
 ### 🎨 Design & UI Tools
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
-  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="50" />
-  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="50" />
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="48" />
+  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="48" />
 </p>
 
 ### 🛠️ Tools & Platforms
@@ -56,15 +59,17 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🚀 Strengths
+## 🧠 Strengths
+
 - ✅ Responsive Design  
 - ✅ Pixel-perfect UI  
 - ✅ Clean, Maintainable Code  
-- ✅ Strong grasp of Programming Fundamentals  
+- ✅ Strong Programming Fundamentals  
 
 ---
 
 ## 📜 Certifications
+
 - 🏅 HTML & CSS – Hackerrank  
 - 🏅 Python for Everybody – Hackerrank  
 - 🏅 JavaScript Essentials – Hackerrank  
@@ -73,7 +78,16 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ---
 
 ## 📄 Resume
+
 🔗 [Click here to view my resume](https://your-resume-link.com)
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
+</p>
 
 ---
 
@@ -96,14 +110,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## ✨ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="center">
@@ -120,14 +126,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50" title="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" title="HackerRank"/>
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-logo-color-tal-revivo.png" width="50" title="HackerRank"/>
   </a>
 </p>
 
 ---
 
-## 🎨 Final Touch
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=🚀+Thanks+for+visiting+my+profile!;💖+Designed+and+Maintained+by+Nikhil+Sundriya" />
-</p>
+> (Optional: Requires setup in your GitHub Actions)
+```markdown
+![snake gif](https://github.com/nikhilsundriya/nikhilsundriya/blob/output/github-contribution-grid-snake.svg)
