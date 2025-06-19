@@ -1,16 +1,16 @@
-<!-- Typing animation banner -->
+<!-- 🌈 Animated Wave Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nikhil+Sundriya+%F0%9F%91%8B;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+building+UIs+that+WOW!" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=150&section=header&text=Nikhil%20Sundriya&fontSize=40&fontColor=ffffff" />
 </p>
 
-<!-- Glitch-style animated banner -->
+<!-- ⚡ Glitch-style animated name -->
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Nikhil%20Sundriya&width=1000&height=150" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Creative%20Web%20Developer&width=1000&height=100" />
 </p>
 
-<!-- Rainbow wave banner -->
+<!-- ✨ Shining SVG Banner (Your Personal Motto) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=header&text=Creative%20Frontend%20Developer&fontSize=30&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffeb3b&center=true&vCenter=true&width=1000&lines=Designing+%F0%9F%8E%A8+%2B+Developing+%F0%9F%92%BB+%3D+Impact+%F0%9F%92%AB;Let%E2%80%99s+Turn+Ideas+into+Reality+Together!;Welcome+to+my+World+of+Code+and+Creativity+%F0%9F%8C%88" />
 </p>
 
 ---
@@ -132,6 +132,8 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ---
 
-## 🐍 Contribution Snake
+## 🎨 Final Touch
 
-[snake gif](https://github.com/nikhilsundriya/nikhilsundriya/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=🚀+Thanks+for+visiting+my+profile!;💖+Designed+and+Maintained+by+Nikhil+Sundriya" />
+</p>
