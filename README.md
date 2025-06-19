@@ -1,13 +1,3 @@
-<!-- 🌈 Animated Wave Header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=150&section=header&text=Nikhil%20Sundriya&fontSize=40&fontColor=ffffff" />
-</p>
-
-<!-- ⚡ Glitch-style animated name -->
-<p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Creative%20Web%20Developer&width=1000&height=100" />
-</p>
-
 <!-- ✨ Shining SVG Banner (Your Personal Motto) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffeb3b&center=true&vCenter=true&width=1000&lines=Designing+%F0%9F%8E%A8+%2B+Developing+%F0%9F%92%BB+%3D+Impact+%F0%9F%92%AB;Let%E2%80%99s+Turn+Ideas+into+Reality+Together!;Welcome+to+my+World+of+Code+and+Creativity+%F0%9F%8C%88" />
