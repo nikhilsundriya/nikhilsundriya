@@ -1,3 +1,13 @@
+<!-- 🌟 Stylish Banner with Your Name -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,100:7873f5&height=150&section=header&text=Hi,%20I'm%20Nikhil%20Sundriya%20👋&fontSize=40&fontColor=ffffff" />
+</p>
+
+<!-- 🌟 Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
 <!-- ✨ Shining SVG Banner (Your Personal Motto) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ffeb3b&center=true&vCenter=true&width=1000&lines=Designing+%F0%9F%8E%A8+%2B+Developing+%F0%9F%92%BB+%3D+Impact+%F0%9F%92%AB;Let%E2%80%99s+Turn+Ideas+into+Reality+Together!;Welcome+to+my+World+of+Code+and+Creativity+%F0%9F%8C%88" />
@@ -116,7 +126,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50" title="Instagram"/>
   </a>
   <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-logo-color-tal-revivo.png" width="50" title="HackerRank"/>
+    <img src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/000000/external-hackerrank-a-technology-company-that-focuses-on-competitive-programming-logo-green-tal-revivo.png" width="50" title="HackerRank"/>
   </a>
 </p>
 
