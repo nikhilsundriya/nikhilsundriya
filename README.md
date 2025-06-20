@@ -112,6 +112,11 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" width="97%" style="border-radius: 12px;" />
 </div>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilsundriya&theme=tokyonight&utcOffset=+5.5" width="60%" />
+</p>
+
+
 ---
 
 ## 📈 Most Used Languages
