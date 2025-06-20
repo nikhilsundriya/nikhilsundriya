@@ -158,7 +158,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ## 🎨 Final Touch
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=🚀+Thanks+for+visiting+my+profile!;💖+Designed+and+Maintained+by+Nikhil+Sundriya" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=🚀+Thanks+for+visiting+my+profile💖!" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20by%20Nikhil%20Sundriya-blueviolet?style=for-the-badge" />
