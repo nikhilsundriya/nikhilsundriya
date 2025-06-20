@@ -20,7 +20,8 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 - 🔎 Looking for a **Web Development Internship**  
 - 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
-- 🌱 Always growing, always building  
+- 🌱 Always growing, always building
+- Visit <a href="https://personal-portfolio-nikhil.netlify.app/" target="_blank">Portfolio</a> to know more about me
 
 ---
 
