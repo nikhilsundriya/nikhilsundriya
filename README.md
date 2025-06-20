@@ -117,7 +117,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=donut&theme=radical&langs_count=10&hide=makefile" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&langs_count=8&hide=makefile" alt="Top Languages" width="60%" />
 </p>
 
 ---
