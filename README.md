@@ -24,9 +24,8 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 - 🔎 Looking for a **Web Development Internship**  
 - 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
-- 🌱 Always growing, always building  
-- Visit <a href="https://personal-portfolio-nikhil.netlify.app/" target="_blank">Portfolio</a> to know more about me
-
+- 🌱 Always growing, always building
+- 
 ---
 
 ## 🌱 Currently Learning
@@ -99,29 +98,10 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://personal-portfolio-nikhil.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20to%20View-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
-
----
-
-## 🔥 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🎬 MovieFlix](https://github.com/nikhilsundriya/movieflix) | A movie review platform with animations & trailer previews | HTML, CSS, JS |
-| [🚗 Jaguar Showcase](https://github.com/nikhilsundriya/jaguar-showcase) | A supercar-themed responsive UI site | HTML, CSS, GSAP |
-| [📱 Portfolio](https://personal-portfolio-nikhil.netlify.app/) | My personal animated web portfolio | React, Tailwind, AOS |
-
----
-
-## 🎉 Fun Facts About Me
-
-- 🔥 I design UIs like it’s digital art.  
-- 🎮 Gamer by night, Developer by day.  
-- ✈️ Dream: Build a startup that blends design + AI.  
-- 🎵 My code playlist? Full of lo-fi, Alan Walker, and Chillstep.  
 
 ---
 
@@ -152,14 +132,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
-</p>
-
----
-
-## 🌀 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nikhilsundriya&theme=tokyo-night&bg_color=1e1e2f&color=9cdbff&line=00f0ff&point=ffffff" width="95%"/>
 </p>
 
 ---
