@@ -1,10 +1,14 @@
-
+<!-- Typing Banner -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1200&lines=Hi+I'm+Nikuu;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
 </p>
 
-<!-- Banner Image -->
+<!-- Greeting Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Universe!;Grab+a+coffee+☕+and+scroll+through+my+projects.;Let's+build+something+awesome+together!+🚀" />
+</p>
 
+<!-- Banner -->
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
 <h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
 
@@ -20,7 +24,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 - 🔎 Looking for a **Web Development Internship**  
 - 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
-- 🌱 Always growing, always building
+- 🌱 Always growing, always building  
 - Visit <a href="https://personal-portfolio-nikhil.netlify.app/" target="_blank">Portfolio</a> to know more about me
 
 ---
@@ -37,7 +41,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ## 💼 Tech Stack
 
 ### 🧰 Languages
-
 <p>
   <img src="https://skillicons.dev/icons?i=c" title="C" width="50" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" />
@@ -48,7 +51,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 </p>
 
 ### 📚 Frameworks & Libraries
-
 <p>
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="50" />
   <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="50" />
@@ -61,7 +63,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 </p>
 
 ### 🎨 Design & UI Tools
-
 <p>
   <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" />
   <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="50" />
@@ -69,7 +70,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 </p>
 
 ### 🛠️ Tools & Platforms
-
 <p>
   <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="50" />
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" />
@@ -78,13 +78,12 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="50" />
 </p>
 
-
 ### 💪 Strengths
 
 - ✅ Responsive Design  
 - ✅ Pixel-perfect UI  
 - ✅ Clean, Maintainable Code  
-- ✅ Strong grasp of Programming Fundamentals
+- ✅ Strong grasp of Programming Fundamentals  
 
 ---
 
@@ -93,13 +92,36 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 - 🏅 HTML & CSS Certification – Hackerrank  
 - 🏅 Python for Everybody – Hackerrank  
 - 🏅 JavaScript Essentials – Hackerrank  
-- 🏅 Git & GitHub – Great Learning
+- 🏅 Git & GitHub – Great Learning  
 
 ---
 
 ## 📄 Resume
 
-🔗 [Click here to view my resume](https://your-resume-link.com)
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-Click%20to%20View-blue?style=for-the-badge&logo=adobeacrobatreader" />
+  </a>
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🎬 MovieFlix](https://github.com/nikhilsundriya/movieflix) | A movie review platform with animations & trailer previews | HTML, CSS, JS |
+| [🚗 Jaguar Showcase](https://github.com/nikhilsundriya/jaguar-showcase) | A supercar-themed responsive UI site | HTML, CSS, GSAP |
+| [📱 Portfolio](https://personal-portfolio-nikhil.netlify.app/) | My personal animated web portfolio | React, Tailwind, AOS |
+
+---
+
+## 🎉 Fun Facts About Me
+
+- 🔥 I design UIs like it’s digital art.  
+- 🎮 Gamer by night, Developer by day.  
+- ✈️ Dream: Build a startup that blends design + AI.  
+- 🎵 My code playlist? Full of lo-fi, Alan Walker, and Chillstep.  
 
 ---
 
@@ -116,7 +138,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilsundriya&theme=tokyonight&utcOffset=+5.5" width="60%" />
 </p>
 
-
 ---
 
 ## 📈 Most Used Languages
@@ -131,6 +152,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
+</p>
+
+---
+
+## 🌀 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=nikhilsundriya&theme=tokyo-night&bg_color=1e1e2f&color=9cdbff&line=00f0ff&point=ffffff" width="95%"/>
 </p>
 
 ---
@@ -155,12 +184,13 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   </a>
 </p>
 
+---
+
 ## 🎨 Final Touch
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFCC&center=true&vCenter=true&width=1000&lines=🚀+Thanks+for+visiting+my+profile💖!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Thanks+for+stopping+by!;Feel+free+to+connect+or+collaborate+👋" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%F0%9F%92%96%20by%20Nikhil%20Sundriya-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Nikhil%20Sundriya-blueviolet?style=for-the-badge" />
 </p>
-
