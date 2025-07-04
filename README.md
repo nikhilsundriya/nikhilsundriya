@@ -13,7 +13,7 @@
 <h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nikhilsundriya/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
