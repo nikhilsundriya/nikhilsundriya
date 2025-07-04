@@ -126,7 +126,6 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=footer"/>
 </p>
 
-
 ### 💪 Strengths
 
 - ✅ Responsive Design  
