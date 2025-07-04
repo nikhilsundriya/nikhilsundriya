@@ -77,68 +77,55 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="50" />
 </p>
 
-## 🚀 My Top Projects
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=100&section=header&text=✨%20Showcasing%20Creativity%20&%20Code!%20🚀&fontSize=24&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=header&text=My%20Top%20Projects&fontSize=28&fontColor=ffffff" />
 </p>
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
-      <a href="https://snapify-nikhil.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/Snapify-%F0%9F%93%B8-orange?style=for-the-badge" /><br/>
-        <img src="https://user-images.githubusercontent.com/65008296/204129826-fc5b4895-d0fc-438a-b23e-1e826b4c1e5d.png" width="100%" alt="Snapify Preview"/><br/>
-        <sub>✨ Turn plain screenshots into aesthetic masterpieces.<br><b>JS • UI Design • 8K Output</b></sub>
-      </a>
+    <td width="50%">
+      <h3><a href="https://snapify-nikhil.netlify.app" target="_blank">📸 Snapify</a></h3>
+      <p>✨ Snapify converts boring screenshots into aesthetic, beautiful shots. Supports AI backgrounds, shadows, up to 8K resolution & more.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://pro-writer-nikhil.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/Pro--Writer-%E2%9C%8D%EF%B8%8F-blueviolet?style=for-the-badge" /><br/>
-        <img src="https://user-images.githubusercontent.com/65008296/204129867-269bd48c-76d7-4fa6-9538-2c0ef02a1e32.png" width="100%" alt="Pro Writer Preview"/><br/>
-        <sub>📝 Minimal writing platform with smooth experience.<br><b>JS • Clean UI • Performance</b></sub>
-      </a>
+    <td width="50%">
+      <h3><a href="https://pro-writer-nikhil.netlify.app" target="_blank">✍️ Pro-Writer</a></h3>
+      <p>Minimal yet powerful writing platform with clean UI and fast performance.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
     </td>
   </tr>
-  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://summerx-nikhil.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/SummerX-%F0%9F%8C%A1-green?style=for-the-badge" /><br/>
-        <img src="https://user-images.githubusercontent.com/65008296/204130125-86aa4c3a-f5de-414d-9372-55f3b05c95a1.png" width="100%" alt="SummerX Preview"/><br/>
-        <sub>🌡️ Saving lives from extreme heat waves.<br><b>JS • Health Awareness • Responsive</b></sub>
-      </a>
+    <td width="50%">
+      <h3><a href="https://summerx-nikhil.netlify.app" target="_blank">🌡️ SummerX</a></h3>
+      <p>We are on a mission 🚀 to save lives from heat waves, 🌿 excessive heat 🥵, and related illnesses.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github-profile-readme-maker-nikhil.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/ReadMe%20Maker-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-cyan?style=for-the-badge" /><br/>
-        <img src="https://user-images.githubusercontent.com/65008296/204130246-739a0f93-ec3a-4ce2-9184-370b127bf89a.png" width="100%" alt="ReadMe Maker Preview"/><br/>
-        <sub>⚡ Create stunning GitHub READMEs instantly.<br><b>JS • Typing SVG • Customizable</b></sub>
-      </a>
+    <td width="50%">
+      <h3><a href="https://github-profile-readme-maker-nikhil.netlify.app/" target="_blank">👨‍💻 GitHub Profile ReadMe Maker</a></h3>
+      <p>🏆 Easily create your perfect GitHub Profile README with cool badges, typing effects & customization.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
     </td>
   </tr>
-  <tr><td colspan="2"><br></td></tr>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://crypto-dashboard-nikhil.netlify.app/" target="_blank">
-        <img src="https://img.shields.io/badge/Crypto%20Dash-%F0%9F%93%88-yellow?style=for-the-badge" /><br/>
-        <img src="https://user-images.githubusercontent.com/65008296/204130321-6ed90206-19d0-4dc8-a5a3-7e07325015b3.png" width="100%" alt="Crypto Dashboard Preview"/><br/>
-        <sub>📊 Monitor market, stats & news at once.<br><b>TypeScript • Crypto API • Charts</b></sub>
-      </a>
+    <td width="50%">
+      <h3><a href="https://crypto-dashboard-nikhil.netlify.app/" target="_blank">📊 Crypto Dashboard</a></h3>
+      <p>Track crypto stats, market trends, news, and more — all in one dashboard.</p>
+      <p><strong>Tech:</strong> TypeScript</p>
     </td>
-    <td align="center" width="50%">
-      <a href="https://github-receipt-nikhil.netlify.app" target="_blank">
-        <img src="https://img.shields.io/badge/GitHub%20Receipt-%F0%9F%A7%BE-purple?style=for-the-badge" /><br/>
-        <img src="https://user-images.githubusercontent.com/65008296/204130410-404c22cb-937b-48e8-9eb8-ecbc9834d85a.png" width="100%" alt="GitHub Receipt Preview"/><br/>
-        <sub>🧾 Stylish receipt of your GitHub journey.<br><b>TypeScript • Contributions • UI</b></sub>
-      </a>
+    <td width="50%">
+      <h3><a href="https://github-receipt-nikhil.netlify.app" target="_blank">🧾 GitHub Receipt</a></h3>
+      <p>Generate a beautiful receipt-style summary of your GitHub contributions.</p>
+      <p><strong>Tech:</strong> TypeScript</p>
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=6C63FF&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=footer"/>
 </p>
+
 
 ### 💪 Strengths
 
