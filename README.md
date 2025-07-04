@@ -103,14 +103,14 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
       <p><strong>Tech:</strong> JavaScript</p>
     </td>
     <td width="50%">
-      <h3><a href="https://profile-readme-maker-nikhil.netlify.app" target="_blank">👨‍💻 GitHub Profile ReadMe Maker</a></h3>
+      <h3><a href="https://github-profile-readme-maker-nikhil.netlify.app/" target="_blank">👨‍💻 GitHub Profile ReadMe Maker</a></h3>
       <p>🏆 Easily create your perfect GitHub Profile README with cool badges, typing effects & customization.</p>
       <p><strong>Tech:</strong> JavaScript</p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3><a href="https://crypto-dash-nikhil.netlify.app" target="_blank">📊 Crypto Dashboard</a></h3>
+      <h3><a href="https://crypto-dashboard-nikhil.netlify.app/" target="_blank">📊 Crypto Dashboard</a></h3>
       <p>Track crypto stats, market trends, news, and more — all in one dashboard.</p>
       <p><strong>Tech:</strong> TypeScript</p>
     </td>
