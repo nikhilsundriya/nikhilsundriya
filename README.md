@@ -77,6 +77,56 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="50" />
 </p>
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=header&text=My%20Top%20Projects&fontSize=28&fontColor=ffffff" />
+</p>
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3><a href="https://snapify-nikhil.netlify.app" target="_blank">📸 Snapify</a></h3>
+      <p>✨ Snapify converts boring screenshots into aesthetic, beautiful shots. Supports AI backgrounds, shadows, up to 8K resolution & more.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://pro-writer-nikhil.netlify.app" target="_blank">✍️ Pro-Writer</a></h3>
+      <p>Minimal yet powerful writing platform with clean UI and fast performance.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://summerx-nikhil.netlify.app" target="_blank">🌡️ SummerX</a></h3>
+      <p>We are on a mission 🚀 to save lives from heat waves, 🌿 excessive heat 🥵, and related illnesses.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://profile-readme-maker-nikhil.netlify.app" target="_blank">👨‍💻 GitHub Profile ReadMe Maker</a></h3>
+      <p>🏆 Easily create your perfect GitHub Profile README with cool badges, typing effects & customization.</p>
+      <p><strong>Tech:</strong> JavaScript</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://crypto-dash-nikhil.netlify.app" target="_blank">📊 Crypto Dashboard</a></h3>
+      <p>Track crypto stats, market trends, news, and more — all in one dashboard.</p>
+      <p><strong>Tech:</strong> TypeScript</p>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github-receipt-nikhil.netlify.app" target="_blank">🧾 GitHub Receipt</a></h3>
+      <p>Generate a beautiful receipt-style summary of your GitHub contributions.</p>
+      <p><strong>Tech:</strong> TypeScript</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=footer"/>
+</p>
+
+
 ### 💪 Strengths
 
 - ✅ Responsive Design  
