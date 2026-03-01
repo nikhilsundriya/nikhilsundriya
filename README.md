@@ -156,23 +156,36 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 📊 GitHub Stats
 
-<div align="center" style="background-color: #1e1e2f; padding: 20px; border-radius: 12px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&border_radius=10" width="48%" style="margin-right: 1%; border-radius: 12px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nikhilsundriya&theme=tokyonight&hide_border=false" width="48%" style="border-radius: 12px;" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" width="97%" style="border-radius: 12px;" />
-</div>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nikhilsundriya&theme=tokyonight&utcOffset=+5.5" width="60%" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&cache_seconds=1800" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true&border_radius=12" 
+    width="48%" 
+  />
+
+  <br/><br/>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" 
+    width="48%" 
+  />
+
+</div>
 
 ---
 
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&langs_count=8&hide=makefile" alt="Top Languages" width="50%" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
+    height="165"
+  />
 </p>
 
 ---
@@ -180,7 +193,9 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ## ✨ GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=monokai&no-bg=true&margin-w=15" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" 
+  />
 </p>
 
 ---
