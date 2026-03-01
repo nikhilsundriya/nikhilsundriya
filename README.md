@@ -85,10 +85,11 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <table align="center">
   <tr>
+    </td>
     <td width="50%">
-      <h3><a href="https://snapify-nikhil.netlify.app" target="_blank">📸 Snapify</a></h3>
-      <p>✨ Snapify converts boring screenshots into aesthetic, beautiful shots. Supports AI backgrounds, shadows, up to 8K resolution & more.</p>
-      <p><strong>Tech:</strong> JavaScript</p>
+      <h3><a href="https://cineverse-nikhil.vercel.app/" target="_blank">🎬 Cineverse</a></h3>
+      <p>🎥 A modern movie discovery platform with smooth UI, dynamic data fetching, and beautiful interactive components.</p>
+      <p><strong>Tech:</strong> React.js, API Integration</p>
     </td>
     <td width="50%">
       <h3><a href="https://pro-writer-nikhil.netlify.app" target="_blank">✍️ Pro-Writer</a></h3>
