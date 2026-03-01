@@ -20,21 +20,24 @@
 
 ## 👨‍💻 About Me
 
-I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and responsive web applications. I enjoy learning new technologies and turning ideas into real projects.
+I'm a passionate **Frontend Developer** focused on building modern, responsive, and performance-driven web applications. I enjoy crafting clean UI, smooth user experiences, and turning ideas into real digital products.
 
-- 🔎 Looking for a **Web Development Internship**  
-- 🎨 Focused on **Frontend Design**, **Accessibility**, and **Performance**  
-- 🌱 Always growing, always building
-- 
+Through projects like Cineverse and PDFusion, I’ve been strengthening my frontend skills while gradually exploring backend development.
+
+- 🚀 Actively building real-world frontend projects  
+- 🎯 Looking for a **Frontend Development Internship**  
+- 🎨 Focused on UI/UX, Accessibility & Performance  
+- 📚 Currently expanding into backend & full-stack development  
+
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Improving
 
-- ⚛️ React.js  
-- 🎨 Tailwind CSS  
-- 🔧 Git & GitHub Workflow  
-- 📱 Advanced Responsive UI/UX  
-
+- ⚛️ Advanced React & Component Architecture  
+- 🔧 API Integration & Backend Fundamentals  
+- 🗂 Scalable Project Structure  
+- 📈 Performance Optimization Techniques  
+- 🧠 Clean Code & Best Practices  
 ---
 
 ## 💼 Tech Stack
@@ -55,9 +58,7 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
   <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="50" />
   <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" />
-  <img src="https://skillicons.dev/icons?i=express" title="Express.js" width="50" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" />
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" />
 </p>
 
@@ -99,10 +100,10 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
   <tr>
     <td width="50%">
-      <h3><a href="https://crypto-dashboard-nikhil.netlify.app/" target="_blank">📊 Crypto Dashboard</a></h3>
-      <p>Track crypto stats, market trends, news, and more — all in one dashboard.</p>
-      <p><strong>Tech:</strong> TypeScript</p>
-    </td>
+  <h3><a href="https://pdfusion-nikihl.vercel.app/" target="_blank">📄 PDFusion</a></h3>
+  <p>⚡ A modern PDF management tool that allows users to merge, split, compress, and manage documents with a clean and responsive interface.</p>
+  <p><strong>Tech:</strong> JavaScript, TypeScript, HTML, CSS</p>
+</td>
     <td width="50%">
       <h3><a href="https://github-receipt-nikhil.netlify.app" target="_blank">🧾 GitHub Receipt</a></h3>
       <p>Generate a beautiful receipt-style summary of your GitHub contributions.</p>
@@ -184,12 +185,3 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 </p>
 
 ---
-
-## 🎨 Final Touch
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Thanks+for+stopping+by!;Feel+free+to+connect+or+collaborate+👋" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by%20Nikhil%20Sundriya-blueviolet?style=for-the-badge" />
-</p>
