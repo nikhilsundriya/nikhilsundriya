@@ -85,20 +85,18 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <table align="center">
   <tr>
-    </td>
     <td width="50%">
       <h3><a href="https://cineverse-nikhil.vercel.app/" target="_blank">🎬 Cineverse</a></h3>
       <p>🎥 A modern movie discovery platform with smooth UI, dynamic data fetching, and beautiful interactive components.</p>
       <p><strong>Tech:</strong> React.js, API Integration</p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3><a href="https://github-profile-readme-maker-nikhil.netlify.app/" target="_blank">👨‍💻 GitHub Profile ReadMe Maker</a></h3>
       <p>🏆 Easily create your perfect GitHub Profile README with cool badges, typing effects & customization.</p>
       <p><strong>Tech:</strong> JavaScript</p>
     </td>
   </tr>
+
   <tr>
     <td width="50%">
       <h3><a href="https://crypto-dashboard-nikhil.netlify.app/" target="_blank">📊 Crypto Dashboard</a></h3>
