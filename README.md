@@ -91,18 +91,8 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
       <p>🎥 A modern movie discovery platform with smooth UI, dynamic data fetching, and beautiful interactive components.</p>
       <p><strong>Tech:</strong> React.js, API Integration</p>
     </td>
-    <td width="50%">
-      <h3><a href="https://pro-writer-nikhil.netlify.app" target="_blank">✍️ Pro-Writer</a></h3>
-      <p>Minimal yet powerful writing platform with clean UI and fast performance.</p>
-      <p><strong>Tech:</strong> JavaScript</p>
-    </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3><a href="https://summerx-nikhil.netlify.app" target="_blank">🌡️ SummerX</a></h3>
-      <p>We are on a mission 🚀 to save lives from heat waves, 🌿 excessive heat 🥵, and related illnesses.</p>
-      <p><strong>Tech:</strong> JavaScript</p>
-    </td>
     <td width="50%">
       <h3><a href="https://github-profile-readme-maker-nikhil.netlify.app/" target="_blank">👨‍💻 GitHub Profile ReadMe Maker</a></h3>
       <p>🏆 Easily create your perfect GitHub Profile README with cool badges, typing effects & customization.</p>
