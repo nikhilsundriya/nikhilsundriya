@@ -157,28 +157,19 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
-    height="165"
-  />
-
-  <img 
-    src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" />
 </p>
-
----
 
 ## 📈 Most Used Languages
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true" 
-    height="165"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsundriya&theme=tokyonight" />
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilsundriya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
