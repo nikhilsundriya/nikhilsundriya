@@ -156,26 +156,19 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&border_radius=12&cache_seconds=1800" 
-    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
+    height="165"
   />
 
   <img 
-    src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true&border_radius=12" 
-    width="48%" 
+    src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" 
+    height="165"
   />
 
-  <br/><br/>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=1800" 
-    width="48%" 
-  />
-
-</div>
+</p>
 
 ---
 
@@ -183,18 +176,8 @@ I'm a self-motivated **Web Developer** with a love for clean UI, smooth UX, and 
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true" 
     height="165"
-  />
-</p>
-
----
-
-## ✨ GitHub Trophies
-
-<p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" 
   />
 </p>
 
