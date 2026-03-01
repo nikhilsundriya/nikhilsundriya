@@ -115,23 +115,6 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=footer"/>
 </p>
-
-### 💪 Strengths
-
-- ✅ Responsive Design  
-- ✅ Pixel-perfect UI  
-- ✅ Clean, Maintainable Code  
-- ✅ Strong grasp of Programming Fundamentals  
-
----
-
-## 📜 Certifications
-
-- 🏅 HTML & CSS Certification – Hackerrank  
-- 🏅 Python for Everybody – Hackerrank  
-- 🏅 JavaScript Essentials – Hackerrank  
-- 🏅 Git & GitHub – Great Learning  
-
 ---
 
 ## 📄 Resume
@@ -167,21 +150,27 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 ## 🌐 Connect with Me
 
 <p align="center">
+
   <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" width="50" title="Gmail"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://twitter.com/nikhil_sundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/twitter--v1.png" width="50" title="Twitter"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/color/48/linkedin.png" width="50" title="LinkedIn"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/nikhil_choudhary25/" target="_blank">
-    <img src="https://img.icons8.com/color/48/instagram-new--v1.png" width="50" title="Instagram"/>
-  </a>&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" width="50" title="HackerRank"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+
+  <a href="https://twitter.com/nikhil_sundriya" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/nikhil_choudhary25/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://www.hackerrank.com/nikhilsundriya" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+
 </p>
 
 ---
