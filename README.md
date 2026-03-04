@@ -136,7 +136,7 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=nikhilsundriya&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
