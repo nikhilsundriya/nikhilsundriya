@@ -127,12 +127,6 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhilsundriya&theme=tokyonight" />
-</p>
-
 ## 📈 Most Used Languages
 
 <p align="center">
