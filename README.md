@@ -115,7 +115,6 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=footer"/>
 </p>
----
 
 ## 📄 Resume
 
