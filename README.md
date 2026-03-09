@@ -119,7 +119,7 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://personal-portfolio-nikhil.netlify.app/" target="_blank">
+  <a href="https://nikhilsundriya.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Resume-Click%20to%20View-blue?style=for-the-badge&logo=adobeacrobatreader" />
   </a>
 </p>
