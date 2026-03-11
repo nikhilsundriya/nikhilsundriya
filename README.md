@@ -54,8 +54,6 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 
 ### 📚 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" width="50" />
-  <img src="https://skillicons.dev/icons?i=materialui" title="Material UI" width="50" />
   <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50" />
   <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" />
@@ -75,7 +73,6 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" />
-  <img src="https://skillicons.dev/icons?i=googlecloud" title="Google Cloud" width="50" />
 </p>
 
 ## 🚀 Featured Projects
