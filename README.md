@@ -70,11 +70,6 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
   <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="50"/>
 </p>
 
-### ⚡ AI & Modern Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=openai" title="OpenAI" width="50"/>
-</p>
-
 ### 🛠️ Tools & Platforms
 <p>
   <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50"/>
