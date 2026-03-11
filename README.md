@@ -44,35 +44,44 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 
 ### 🧰 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="50" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50" />
-  <img src="https://skillicons.dev/icons?i=python" title="Python" width="50" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" width="50"/>
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50"/>
+  <img src="https://skillicons.dev/icons?i=python" title="Python" width="50"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="50"/>
 </p>
 
 ### 📚 Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50" />
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50" />
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50" />
+  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50"/>
 </p>
 
 ### 🎨 Design & UI Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50" />
-  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="50" />
-  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="50" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50"/>
+  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="50"/>
+  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="50"/>
+</p>
+
+### ⚡ AI & Modern Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=openai" title="OpenAI" width="50"/>
 </p>
 
 ### 🛠️ Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="50" />
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50" />
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50" />
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50" />
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="50"/>
+  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="50"/>
 </p>
 
 ## 🚀 Featured Projects
