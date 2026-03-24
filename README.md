@@ -15,6 +15,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Repository%20Views&color=ff69b4&style=flat" alt="Repo Views" />
+</p>
 
 ---
 
@@ -139,6 +142,11 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
   <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" />
 </p>
 
+## 📊 Contribution Graph (PRs, Commits, Issues)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=tokyo-night&hide_border=true" />
+</p>
 ---
 
 ## 🌐 Connect with Me
