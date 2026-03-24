@@ -142,10 +142,10 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
   <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" />
 </p>
 
-## 📊 Contribution Graph (PRs, Commits, Issues)
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 </p>
 ---
 
