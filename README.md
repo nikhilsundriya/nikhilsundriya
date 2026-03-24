@@ -43,44 +43,6 @@ I focus on writing clean, scalable code and creating **smooth, modern user exper
 <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma" />
 </p>
 
----
-
-# 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-<h3>🎬 Cineverse</h3>
-<p>Modern movie platform with smooth UI & API integration.</p>
-<p><strong>Tech:</strong> React.js</p>
-<a href="https://cineverse-nikhil.vercel.app/">Live Demo</a>
-</td>
-
-<td width="50%">
-<h3>📄 PDFusion</h3>
-<p>PDF tool for merge, split & compress with clean UI.</p>
-<p><strong>Tech:</strong> JS, TS</p>
-<a href="https://pdfusion-nikihl.vercel.app/">Live Demo</a>
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-<h3>👨‍💻 README Generator</h3>
-<p>Create beautiful GitHub profile READMEs easily.</p>
-<a href="https://github-profile-readme-maker-nikhil.netlify.app/">Live Demo</a>
-</td>
-
-<td width="50%">
-<h3>🧾 GitHub Receipt</h3>
-<p>Generate receipt-style GitHub summaries.</p>
-<a href="https://github-receipt-nikhil.netlify.app">Live Demo</a>
-</td>
-</tr>
-</table>
-
----
-
 # 📊 GitHub Insights
 
 <p align="center">
