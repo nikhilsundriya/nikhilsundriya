@@ -50,6 +50,9 @@ I focus on writing clean, scalable code and creating **smooth, modern user exper
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsundriya&theme=tokyonight" height="170"/>
   <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+---
+
 # 🤝 Let's Connect
 
 <p align="center">
