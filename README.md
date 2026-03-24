@@ -6,9 +6,9 @@
 <h3 align="center">💻 Frontend Developer | UI/UX Focused | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&style=flat&color=blue" />
-  <img src="https://img.shields.io/badge/Followers-%20-blue?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Stars-%20-yellow?style=flat&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&style=flat&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/nikhilsundriya?style=flat&color=0e75b6&label=Followers" />
+  <img src="https://img.shields.io/github/stars/nikhilsundriya?style=flat&color=0e75b6&label=Stars" />
 </p>
 
 ---
