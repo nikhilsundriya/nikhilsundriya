@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Nikhil+Sundriya;Frontend+Developer+%7C+UI+Enthusiast;Building+Modern+Web+Experiences+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Frontend+Developer+%7C+UI+Enthusiast;Building+Modern+Web+Experiences+🚀" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Nikhil Sundriya</h1>
@@ -23,17 +23,7 @@ I focus on writing clean, scalable code and creating **smooth, modern user exper
 - 🎯 Looking for **Frontend Developer Internship / Opportunities**  
 - 🎨 Strong focus on UI/UX & animations  
 - 📈 Learning backend to become full-stack  
-
----
-
-# 🧠 What I Bring
-
-- ⚡ Clean, scalable React architecture  
-- 🎨 Pixel-perfect UI + smooth animations  
-- 🔗 API integration & dynamic apps  
-- 📱 Fully responsive design mindset  
-- 🚀 Performance optimization  
-
+  
 ---
 
 # 🛠 Tech Stack
@@ -98,18 +88,6 @@ I focus on writing clean, scalable code and creating **smooth, modern user exper
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsundriya&theme=tokyonight" height="170"/>
   <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
----
-
-# 📄 Resume
-
-<p align="center">
-<a href="https://nikhilsundriya.vercel.app/">
-<img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" />
-</a>
-</p>
-
----
 
 # 🤝 Let's Connect
 
