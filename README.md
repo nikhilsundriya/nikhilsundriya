@@ -130,24 +130,13 @@ Through projects like Cineverse and PDFusion, I’ve been strengthening my front
 
 ---
 
-## 📈 Most Used Languages
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsundriya&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsundriya&theme=tokyonight" width="32%" />
+  <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" width="32%" />
 </p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-</p>
----
 
 ## 🌐 Connect with Me
 
