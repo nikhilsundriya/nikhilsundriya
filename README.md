@@ -1,156 +1,128 @@
-<!-- Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=1200&lines=Hi+I'm+Nikuu;Web+Developer+from+India+%F0%9F%92%BB;Passionate+about+learning+and+building+beautiful+UIs!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=1000&lines=Hi+I'm+Nikhil+Sundriya;Frontend+Developer+%7C+UI+Enthusiast;Building+Modern+Web+Experiences+🚀" />
 </p>
 
-<!-- Greeting Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=1000&lines=Welcome+to+My+GitHub+Universe!;Grab+a+coffee+☕+and+scroll+through+my+projects.;Let's+build+something+awesome+together!+🚀" />
-</p>
-
-<!-- Banner -->
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm Nikhil Sundriya</h1>
-<h3 align="center">💻 Passionate & Self-Driven Web Developer from India</h3>
+<h1 align="center">👋 Hi, I'm Nikhil Sundriya</h1>
+<h3 align="center">💻 Frontend Developer | UI/UX Focused | India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&label=Repo%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&style=for-the-badge&color=0e75b6" />
+  <img src="https://img.shields.io/github/followers/nikhilsundriya?style=for-the-badge&color=blue&label=Followers" />
+  <img src="https://img.shields.io/github/stars/nikhilsundriya?style=for-the-badge&color=yellow&label=Stars" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a passionate **Frontend Developer** focused on building modern, responsive, and performance-driven web applications. I enjoy crafting clean UI, smooth user experiences, and turning ideas into real digital products.
+I’m a **Frontend Developer** passionate about building **high-performance, visually stunning web applications**.
 
-Through projects like Cineverse and PDFusion, I’ve been strengthening my frontend skills while gradually exploring backend development.
+I focus on writing clean, scalable code and creating **smooth, modern user experiences**.
 
-- 🚀 Actively building real-world frontend projects  
-- 🎯 Looking for a **Frontend Development Internship**  
-- 🎨 Focused on UI/UX, Accessibility & Performance  
-- 📚 Currently expanding into backend & full-stack development  
+- 🚀 Building real-world projects consistently  
+- 🎯 Looking for **Frontend Developer Internship / Opportunities**  
+- 🎨 Strong focus on UI/UX & animations  
+- 📈 Learning backend to become full-stack  
 
 ---
 
-## 🌱 Currently Learning & Improving
+# 🧠 What I Bring
 
-- ⚛️ Advanced React & Component Architecture  
-- 🔧 API Integration & Backend Fundamentals  
-- 🗂 Scalable Project Structure  
-- 📈 Performance Optimization Techniques  
-- 🧠 Clean Code & Best Practices  
+- ⚡ Clean, scalable React architecture  
+- 🎨 Pixel-perfect UI + smooth animations  
+- 🔗 API integration & dynamic apps  
+- 📱 Fully responsive design mindset  
+- 🚀 Performance optimization  
+
 ---
 
-## 💼 Tech Stack
+# 🛠 Tech Stack
 
-### 🧰 Languages
+### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c" title="C" width="50"/>
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" width="50"/>
-  <img src="https://skillicons.dev/icons?i=python" title="Python" width="50"/>
-  <img src="https://skillicons.dev/icons?i=html" title="HTML5" width="50"/>
-  <img src="https://skillicons.dev/icons?i=css" title="CSS3" width="50"/>
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="50"/>
-  <img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="50"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,c" />
 </p>
 
-### 📚 Frameworks & Libraries
+### Frameworks & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react" title="React.js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nextjs" title="Next.js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="50"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" title="Tailwind CSS" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="50"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="50"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mongodb,mysql" />
 </p>
 
-### 🎨 Design & UI Tools
+### Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=figma" title="Figma" width="50"/>
-  <img src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" title="Adobe Photoshop" width="50"/>
-  <img src="https://img.icons8.com/color/48/design.png" title="UI/UX Design" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,figma" />
 </p>
 
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="50"/>
-  <img src="https://skillicons.dev/icons?i=git" title="Git" width="50"/>
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" width="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" title="Docker" width="50"/>
-  <img src="https://skillicons.dev/icons?i=powershell" title="PowerShell" width="50"/>
-</p>
+---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=header&text=My%20Top%20Projects&fontSize=28&fontColor=ffffff" />
-</p>
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3><a href="https://cineverse-nikhil.vercel.app/" target="_blank">🎬 Cineverse</a></h3>
-      <p>🎥 A modern movie discovery platform with smooth UI, dynamic data fetching, and beautiful interactive components.</p>
-      <p><strong>Tech:</strong> React.js, API Integration</p>
-    </td>
-    <td width="50%">
-      <h3><a href="https://github-profile-readme-maker-nikhil.netlify.app/" target="_blank">👨‍💻 GitHub Profile ReadMe Maker</a></h3>
-      <p>🏆 Easily create your perfect GitHub Profile README with cool badges, typing effects & customization.</p>
-      <p><strong>Tech:</strong> JavaScript</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-  <h3><a href="https://pdfusion-nikihl.vercel.app/" target="_blank">📄 PDFusion</a></h3>
-  <p>⚡ A modern PDF management tool that allows users to merge, split, compress, and manage documents with a clean and responsive interface.</p>
-  <p><strong>Tech:</strong> JavaScript, TypeScript, HTML, CSS</p>
+<table>
+<tr>
+<td width="50%">
+<h3>🎬 Cineverse</h3>
+<p>Modern movie platform with smooth UI & API integration.</p>
+<p><strong>Tech:</strong> React.js</p>
+<a href="https://cineverse-nikhil.vercel.app/">Live Demo</a>
 </td>
-    <td width="50%">
-      <h3><a href="https://github-receipt-nikhil.netlify.app" target="_blank">🧾 GitHub Receipt</a></h3>
-      <p>Generate a beautiful receipt-style summary of your GitHub contributions.</p>
-      <p><strong>Tech:</strong> TypeScript</p>
-    </td>
-  </tr>
+
+<td width="50%">
+<h3>📄 PDFusion</h3>
+<p>PDF tool for merge, split & compress with clean UI.</p>
+<p><strong>Tech:</strong> JS, TS</p>
+<a href="https://pdfusion-nikihl.vercel.app/">Live Demo</a>
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+<h3>👨‍💻 README Generator</h3>
+<p>Create beautiful GitHub profile READMEs easily.</p>
+<a href="https://github-profile-readme-maker-nikhil.netlify.app/">Live Demo</a>
+</td>
+
+<td width="50%">
+<h3>🧾 GitHub Receipt</h3>
+<p>Generate receipt-style GitHub summaries.</p>
+<a href="https://github-receipt-nikhil.netlify.app">Live Demo</a>
+</td>
+</tr>
 </table>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0E75B6&height=100&section=footer"/>
-</p>
+---
 
-## 📄 Resume
+# 📊 GitHub Insights
 
 <p align="center">
-  <a href="https://nikhilsundriya.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-Click%20to%20View-blue?style=for-the-badge&logo=adobeacrobatreader" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsundriya&theme=tokyonight" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 📊 GitHub Insights
+# 📄 Resume
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170em"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nikhilsundriya&theme=tokyonight" height="170em"/>
-  <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" height="170em"/>
-</p>
-
-## 🌐 Connect with Me
-
-<p align="center">
-
-  <a href="mailto:nikhilchoudhary2508@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://twitter.com/nikhil_sundriya" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/nikhilsundriya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+<a href="https://nikhilsundriya.vercel.app/">
+<img src="https://img.shields.io/badge/View%20Resume-Click%20Here-blue?style=for-the-badge" />
+</a>
 </p>
 
 ---
+
+# 🤝 Let's Connect
+
+<p align="center">
+<a href="mailto:nikhilchoudhary2508@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/nikhilsundriya">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://twitter.com/nikhil_sundriya">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter"/>
+</a>
+</p>
