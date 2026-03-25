@@ -7,7 +7,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&style=flat&color=0e75b6" />
-  <img src="https://img.shields.io/github/followers/nikhilsundriya?style=flat&color=0e75b6&label=Followers" />
   <img src="https://img.shields.io/github/stars/nikhilsundriya?style=flat&color=0e75b6&label=Stars" />
 </p>
 
