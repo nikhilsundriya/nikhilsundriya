@@ -49,20 +49,7 @@ I focus on writing clean, scalable code and creating **smooth, modern user exper
   
   <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" height="170"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
- 
  ----
-
-<div align="center">
-
-### 📊 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=tokyo-night&hide_border=true"/>
-
-</div>
  
 
 # 🤝 Let's Connect
