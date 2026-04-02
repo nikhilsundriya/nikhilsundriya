@@ -17,21 +17,19 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-<p align="center" width="700">
-  I’m a <b>Frontend Developer</b> passionate about building <b>high-performance, visually stunning web applications</b>.<br><br>
-  I focus on writing clean, scalable code and creating <b>smooth, modern user experiences</b>.
+<p align="center">
+  <b>Frontend Developer</b> focused on building <b>high-performance</b> & <b>visually stunning</b> web apps.<br>
+  Passionate about clean code, smooth UI, and modern user experiences.
 </p>
 
 <br>
 
-<div align="center">
-
-🚀 Building real-world projects consistently  
-🎯 Looking for <b>Frontend Developer Internship / Opportunities</b>  
-🎨 Strong focus on UI/UX & animations  
-📈 Learning backend to become full-stack  
-
-</div>
+<p align="center">
+  🚀 Consistently building real-world projects &nbsp;•&nbsp;
+  🎯 Open to Frontend Internships &nbsp;•&nbsp;
+  🎨 UI/UX & Animations Focus &nbsp;•&nbsp;
+  📈 Learning Backend for Full-Stack
+</p>
 
 ---
 
@@ -61,7 +59,9 @@
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=nikhilsundriya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" 
     height="180"
   />
-  
+</p>
+
+<p align="center">
   <img 
     src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" 
     height="180"
