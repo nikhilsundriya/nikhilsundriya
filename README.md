@@ -57,10 +57,6 @@ I focus on writing clean, scalable code and creating <b>smooth, modern user expe
   <img src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=tokyo-night&hide_border=true"/>
-</p>
-
 ---
 
 # 🤝 Let's Connect
