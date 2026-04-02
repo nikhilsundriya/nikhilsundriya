@@ -56,6 +56,15 @@ I focus on writing clean, scalable code and creating **smooth, modern user exper
  
  ----
 
+<div align="center">
+
+### 📊 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nikhilsundriya&theme=tokyo-night&hide_border=true"/>
+
+</div>
+ 
+
 # 🤝 Let's Connect
 
 <p align="center">
