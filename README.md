@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nikhilsundriya&style=for-the-badge&color=0e75b6"/>
   <img src="https://img.shields.io/github/stars/nikhilsundriya?style=for-the-badge&color=0e75b6&label=Stars"/>
+  <img src="https://img.shields.io/github/followers/nikhilsundriya?style=for-the-badge&color=0e75b6&label=Followers"/>
 </p>
 
 ---
@@ -52,6 +53,16 @@
 
 ---
 
+<h2 align="center">📌 Featured Work</h2>
+
+<p align="center">
+  ✨ Building modern responsive websites <br>
+  🎬 Creating interactive frontend projects <br>
+  ⚡ Crafting smooth UI animations and experiences
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Insights</h2>
 
 <p align="center">
@@ -66,6 +77,21 @@
     src="https://streak-stats.demolab.com?user=nikhilsundriya&theme=tokyonight&hide_border=true" 
     height="180"
   />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilsundriya&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+</p>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhilsundriya&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -84,4 +110,11 @@
   <a href="https://twitter.com/nikhil_sundriya">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+</p>
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile ❤️</b><br>
+  Let’s build something amazing together.
 </p>
